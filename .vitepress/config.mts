@@ -34,6 +34,7 @@ export default defineConfig({
           { text: "主页", link: "/zh/" },
           { text: "成员", link: "/zh/members/" },
           { text: "联系", link: "/zh/about/contact" },
+          { text: "开发", link: "/zh/dev" },
         ],
         sidebar: [
           {
@@ -54,9 +55,10 @@ export default defineConfig({
           },
           {
             text: "开发",
+            link: "/zh/dev/",
             items: [
-              { text: "Python 代码规范", link: "/zh/about/python-style" },
-              { text: "贡献指南", link: "/zh/about/contributing" },
+              { text: "Python 代码规范", link: "/zh/dev/python-style" },
+              { text: "贡献指南", link: "/zh/dev/contributing" },
             ],
           },
           {

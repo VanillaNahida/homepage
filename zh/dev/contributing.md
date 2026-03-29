@@ -1,5 +1,9 @@
 # 贡献指南
 
+> 本页面由 AI 生成，并已经过人工修改和审核。
+
+<!-- Reviewers: RhenCloud, wyf9 -->
+
 本文档用于说明如何为 SiiWay 主页项目贡献内容与代码。
 
 ## 适用范围
@@ -25,11 +29,14 @@
 
 提交前建议至少完成：
 
+- 确保你的提交未违反 SiiWay 行为守则
 - 拼写与链接自检
 - 本地预览页面确认显示正常
 - 对应语言版本内容一致性检查（如适用）
+- 去除无用的 AI 提示文本
+- 在提交更改前先询问 SiiWay Core 成员
 
 ## 相关文档
 
-- [Python 代码规范](/zh/about/python-style)
-- [SiiWay 行为准则](/zh/about/code-of-conduct)
+- [Python 代码规范](./python-style)
+- [SiiWay 行为准则](../about/code-of-conduct)

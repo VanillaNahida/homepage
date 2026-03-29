@@ -1,5 +1,9 @@
 # Python 代码规范
 
+> 本页面由 AI 生成，并已经过人工修改和审核。
+
+<!-- Reviewers: RhenCloud, wyf9 -->
+
 本文档用于统一 Python 项目的代码风格、工具链和提交流程，降低协作成本并提升可维护性。
 
 ## 目标
@@ -24,7 +28,7 @@
 - 函数、变量使用小写加下划线，例如 `get_user_profile`。
 - 常量使用全大写加下划线，例如 `MAX_RETRY_COUNT`。
 
-## 格式化与静态检查
+## 格式化与静态检查 (ruff)
 
 统一使用 `ruff`，避免 `black` + `isort` + `flake8` 的多工具分裂。
 
@@ -38,7 +42,7 @@ ruff check --fix
 
 - `ruff format` 负责代码格式化。
 - `ruff check` 负责风格与常见问题检查。
-- `--fix` 可自动修复部分问题。
+- `--fix` 可自动修复*部分*问题。
 
 ## 类型检查（ty）
 
