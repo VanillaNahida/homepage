@@ -93,3 +93,5 @@ Discord: [VanillaNahida](https://discord.com/users/1391996953973362809)
 Telegram: [Nahida1027](https://t.me/Nahida1027)
 
 Bilibili: [香草味的纳西妲喵](https://space.bilibili.com/1347891621) (UID `1347891621`)
+
+Email: [Email Protected](https://wss.moe/m64/eGNuYWhpZGFAcXEuY29t)
